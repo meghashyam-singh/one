@@ -106,7 +106,7 @@
 
     <section id="home">
         <h2>Home</h2>
-        <p>Welcome to our college website. We are committed to providing quality education and fostering a vibrant learning environment.</p>
+        <p>Welcome to our university website. We are committed to providing quality education and fostering a vibrant learning environment.</p>
         <img src="https://via.placeholder.com/800x400" alt="College Image">
     </section>
 
