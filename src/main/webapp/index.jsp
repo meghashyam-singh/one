@@ -93,7 +93,7 @@
 <body>
 
     <header>
-        <h1>Welcome to Our             UNIVERSITY</h1>
+        <h1>Welcome to MY UNIVERSITY</h1>
     </header>
 
     <nav>
